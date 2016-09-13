@@ -1,7 +1,8 @@
 # WordPress Test
 
-Desenvolver um plugin para WordPress utilizando boas práticas de desenvolvimento que permita
+Faça um fork desse projeto e desenvolva um plugin para WordPress utilizando boas práticas de desenvolvimento que permita
 adicionar um rodadpé especial em todas as páginas de um blog.
+Após o desenvolvimento envie a url do fork para avaliação.
 
 ## Requisitos
 * Este plugin deve interagir com o banco de dado do WordPress
