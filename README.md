@@ -10,5 +10,5 @@ Adicionar rodapé personalizado em um blog WordPress.
 ## Requisitos
 * Este plugin deve interagir com o banco de dados do WordPress Mysql;
 * No admin do WordPress, no menu "Configurações" deve haver uma opção "R7 Teste", no qual será possível ativar ou não a exibição do rodapé;
-* Na pasta `img` do projeto existe a imagem `sample.png`, template que o rodapé deverá reproduzir.
+* Na pasta `img` do projeto existe as imagens `sample-desk.png` e `sample-mobile.png`, templates que o rodapé deverá reproduzir.
 * É necessário formatar esse rodapé utilizando css;
